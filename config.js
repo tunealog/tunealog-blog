@@ -5,10 +5,10 @@ module.exports = {
   pathPrefix: '/',
   title: 'With the tunealog',
   subtitle: 'Was mich nicht umbringt macht mich stärker.',
-  copyright: '© All rights reserved.',
+  copyright: '©tunealog All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-203529984-1',
   useKatex: false,
   menu: [
     {
@@ -27,16 +27,16 @@ module.exports = {
   author: {
     name: 'Yonghyeon Kim',
     photo: '/photo.jpg',
-    bio: 'Was mich nicht umbringt macht mich stärker.',
+    bio: 'Full Stack System Engineer',
     contacts: {
       email: 'tunealog@gmail.com',
       facebook: '',
       telegram: '',
       twitter: '',
-      github: 'github.com/tunealog',
+      github: 'https://github.com/tunealog',
       rss: '',
       vkontakte: '',
-      linkedin: 'linkedin.com/in/tunealog/',
+      linkedin: 'https://www.linkedin.com/in/tunealog',
       instagram: '#',
       line: '',
       gitlab: '',
