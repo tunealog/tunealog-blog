@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://tunealog.com',
   pathPrefix: '/',
-  title: 'Blog by tunealog',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'With the tunealog',
+  subtitle: 'Was mich nicht umbringt macht mich stärker.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,16 +27,16 @@ module.exports = {
   author: {
     name: 'Yonghyeon Kim',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Was mich nicht umbringt macht mich stärker.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'tunealog@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: 'github.com/tunealog',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'linkedin.com/in/tunealog/',
       instagram: '#',
       line: '',
       gitlab: '',
